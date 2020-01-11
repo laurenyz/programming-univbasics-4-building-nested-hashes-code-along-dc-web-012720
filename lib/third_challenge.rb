@@ -34,5 +34,5 @@ def third_challenge
    }
   }
 end
-p third_challenge
+third_challenge
 epic_tragedy[:name]
