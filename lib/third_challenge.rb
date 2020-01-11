@@ -35,4 +35,4 @@ def third_challenge
   }
 end
 third_challenge
-epic_tragedy[:name]
+epic_tragedy[:capulet][:name]
