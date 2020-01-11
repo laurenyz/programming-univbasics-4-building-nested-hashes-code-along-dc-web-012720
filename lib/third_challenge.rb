@@ -36,4 +36,3 @@ def third_challenge
  p epic_tragedy[:capulet][:patriarch][:name]
 end
 third_challenge
-epic_tragedy[:capulet][:patriarch][:name]
