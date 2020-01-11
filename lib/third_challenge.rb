@@ -33,6 +33,6 @@ def third_challenge
       :heroine_friends => []
    }
   }
- p epic_tragedy[:capulet][:patriarch][:name]
+
 end
-third_challenge
+
